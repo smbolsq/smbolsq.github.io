@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://smbolsq.github.io/sitemap.xml
